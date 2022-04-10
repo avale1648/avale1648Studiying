@@ -1,0 +1,19 @@
+#pragma once
+#include <vector>
+#include <string>
+#include <iostream>
+#include <Windows.h>
+#include <stdexcept>
+#include <fstream>
+#include <typeinfo>
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::runtime_error;
+using std::string;
+using std::vector;
+using std::ofstream;
+using std::ifstream;
+using std::to_string;
+using std::type_info;
